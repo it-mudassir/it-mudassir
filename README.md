@@ -26,7 +26,7 @@ I am a passionate developer who loves building tools that make people's lives ea
 
 ### 🧰 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,mysql,supabase,tailwind,figma,flutter,cplusplus,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,mysql,supabase,tailwind,figma,flutter,c++,vscode" />
 </div>
 
 ---
