@@ -33,8 +33,8 @@ I am a passionate developer who loves building tools that make people's lives ea
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=it-mudassir&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-mudassir&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" alt="Top Languages" height="170px" />
 </div>
 
 ---
