@@ -18,8 +18,8 @@
 ### 🎯 About Me
 I am a passionate developer who loves building tools that make people's lives easier. I thrive in the intersection of **clean code** and **great user experience**.
 
-* 🔭 I’m currently working on **[Project Name]**
-* 🌱 I’m currently learning **Advanced System Architecture**
+* 🔭 I’m currently working on **Mudassir**
+* 🌱 I’m currently learning **It's Confidential**
 * ⚡ Fun fact: **I can debug code in my sleep (literally).**
 
 ---
