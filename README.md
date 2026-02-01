@@ -1,52 +1,58 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20[YourName]&fontSize=70" />
-
-  <h1>🚀 Full-Stack Developer | Open Source Enthusiast</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45FFCA&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+YourName;Full+Stack+Developer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://your-portfolio.com">Portfolio</a> •
-    <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-    <a href="https://twitter.com/yourhandle">Twitter</a>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
   </p>
-
-  <p><i>Building digital experiences that don't just work, but feel right.</i></p>
 </div>
 
 ---
 
-### ⚡ Quick Bio
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **Rust and Advanced System Design**
-- 👯 I’m looking to collaborate on **Open Source UI Libraries**
-- 💬 Ask me about **React, Node.js, and why dark mode is superior**
-- ⚡ Fun fact: **I drink more coffee than my code has lines.**
+### 💫 About Me
+I'm a developer who enjoys turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you can find me exploring new tech or drinking way too much matcha.
+
+- 🔭 **Currently working on:** [Cool Project Name]
+- ⚡ **Superpower:** Writing clean code (mostly)
+- 💬 **Ask me about:** React, Python, or Sci-Fi movies
+- 📫 **How to reach me:** [your-email@example.com]
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+### 🛠️ My Toolbox
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,docker,figma,git,mysql,aws,tailwind" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=tokyonight" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+### 📊 My GitHub Stats
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-glow&rank_icon=github&border_radius=10" alt="Stats" height="180em" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-glow&border_radius=10" alt="Top Languages" height="180em" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=vision-glow&hide_border=true" alt="Streak Stats" />
+</div>
 
 ---
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </div>
