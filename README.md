@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛠️ Hello, I'm [Your Name]
+# 🛠️ Hello, I'm Mudassir
 ### 🚀 Full-Stack Developer | Creative Thinker | Problem Solver
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Digital+Products;Learning+New+Tech;Coffee+to+Code+Converter)](https://git.io/typing-svg)
@@ -18,7 +18,7 @@
 ### 🎯 About Me
 I am a passionate developer who loves building tools that make people's lives easier. I thrive in the intersection of **clean code** and **great user experience**.
 
-* 🔭 I’m currently working on **Mudassir**
+* 🔭 I’m currently working on **Browsers Extension**
 * 🌱 I’m currently learning **It's Confidential**
 * ⚡ Fun fact: **I can debug code in my sleep (literally).**
 
