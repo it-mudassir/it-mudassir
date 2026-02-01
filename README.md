@@ -56,6 +56,8 @@ I am a passionate developer who loves building tools that make people's lives ea
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=00d2ff&height=20&section=footer" width="100%" />
-</div
+<p align="center">
+  _______________________________________________________________________________________________________________________________________
+  <br>
+  🚀 <i>Happy Coding!</i>
+</p>
