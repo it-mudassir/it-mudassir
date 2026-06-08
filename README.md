@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🛠️ Hello, I'm Mudassir
-### 🚀 Full-Stack Developer | Creative Thinker | Problem Solver
+# Hello, I'm Mudassir
+### Full-Stack Developer | Creative Thinker | Problem Solver
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Digital+Products;Learning+New+Tech;Coffee+to+Code+Converter)](https://git.io/typing-svg)
 
@@ -18,20 +18,20 @@
 ### 🎯 About Me
 I am a passionate developer who loves building tools that make people's lives easier. I thrive in the intersection of **clean code** and **great user experience**.
 
-* 🔭 I’m currently working on : **Improving my system design skills.**
-* 🌱 I’m currently learning, **It,s Confidential.**
-* ⚡ Fun fact: **I can debug code in my sleep (literally).**
+* I’m currently working on : **Improving my system design skills.**
+* I’m currently learning, **It,s Confidential.**
+* Fun fact: **I can debug code in my sleep (literally).**
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,mysql,supabase,tailwind,figma,flutter,vscode" />
 </div>
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 <div align="center">
   <table border="0">
     <tr>
@@ -47,7 +47,7 @@ I am a passionate developer who loves building tools that make people's lives ea
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -60,5 +60,5 @@ I am a passionate developer who loves building tools that make people's lives ea
   _______________________________________________________________________________________________________________________________________
   <br>
   <br>
-  🚀 <i>Happy Coding!</i>
+  <i>Happy Coding!</i>
 </p>
