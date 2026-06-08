@@ -26,14 +26,8 @@ I am a passionate developer who loves building tools that make people's lives ea
 
 ### Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,mysql,mongodb,supabase,tailwind,figma,flutter,nodejs,express,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,mysql,mongodb,supabase,tailwind,figma,flutter,nodejs,express,vscode" />
 </div>
-
-### AI Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-API-green?logo=openai" />
-  <img src="https://img.shields.io/badge/Claude-AI-purple" />
-</p>
 
 ---
 
