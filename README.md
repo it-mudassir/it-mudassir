@@ -18,8 +18,8 @@
 ### About Me
 I am a passionate developer who loves building tools that make people's lives easier. I thrive in the intersection of **clean code** and **great user experience**.
 
-* I’m currently working on : **Improving my system design skills.**
-* I’m currently learning, **It,s Confidential.**
+* I’m currently working on : **AI-integrated web systems & automation tools.**
+* I’m currently learning, **Advanced System Design & AI Agents.**
 * Fun fact: **I can debug code in my sleep (literally).**
 
 ---
