@@ -29,6 +29,12 @@ I am a passionate developer who loves building tools that make people's lives ea
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel,mysql,mongodb,supabase,tailwind,figma,flutter,nodejs,express,vscode&theme=light" />
 </div>
 
+### AI Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-API-green?logo=openai" />
+  <img src="https://img.shields.io/badge/Claude-AI-purple" />
+</p>
+
 ---
 
 ### GitHub Activity
