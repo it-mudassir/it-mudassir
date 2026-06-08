@@ -15,7 +15,7 @@
 
 </div>
 
-### 🎯 About Me
+### About Me
 I am a passionate developer who loves building tools that make people's lives easier. I thrive in the intersection of **clean code** and **great user experience**.
 
 * I’m currently working on : **Improving my system design skills.**
