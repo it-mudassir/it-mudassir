@@ -20,7 +20,7 @@ I am a passionate developer who loves building tools that make people's lives ea
 
 * I’m currently working on : **AI-integrated web systems & automation tools.**
 * I’m currently learning, **Advanced System Design & AI Agents.**
-* Fun fact: **I can debug code in my sleep (literally).**
+* Fun fact : **I can debug code in my sleep (literally).**
 
 ---
 
